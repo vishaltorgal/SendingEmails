@@ -8,9 +8,9 @@
 <b>
 
  
-<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="450" height="600">
+<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="250" height="400">
 <br><br>
-<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/2.png " alt="alt text" width="450" height="600">
+<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/2.png " alt="alt text" width="250" height="400">
 <br><br>
 
 
