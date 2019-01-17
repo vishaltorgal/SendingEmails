@@ -5,7 +5,7 @@
 
 [![Alt text](https://github.com/vishaltorgal/SendingEmails/blob/master/dlapk.png)](https://github.com/vishaltorgal/SendingEmails/raw/master/sendingemails.apk)
 
-<b>
+<br><br>
 
  
 <img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="300" height="450">
@@ -14,7 +14,7 @@
 <br><br>
 
 
-```android
+```java
 
     String[] TO = {""};
     String[] CC = {""};
