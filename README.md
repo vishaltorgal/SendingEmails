@@ -1,5 +1,5 @@
 
-<h2><span style="color:blue"> Sending Emails in Android </span></h2>
+##Sending Email in Android
 - - -
 
 
