@@ -8,13 +8,13 @@
 <b>
 
  
-<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="250" height="400">
+<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="300" height="450">
 <br><br>
-<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/2.png " alt="alt text" width="250" height="400">
+<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/2.png " alt="alt text" width="300" height="450">
 <br><br>
 
 
-```sh
+```java
 
     String[] TO = {""};
     String[] CC = {""};
