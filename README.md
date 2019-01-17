@@ -1,13 +1,8 @@
 ## Sending Email in Android
 
+<a href="https://github.com/vishaltorgal/SendingEmails/raw/master/sendingemails.apk"><img src="https://github.com/vishaltorgal/SendingEmails/blob/master/dlapk.png" width="150" height="80" title="White flower" alt="Flower"></a>
 
-
-
-[![Alt text](https://github.com/vishaltorgal/SendingEmails/blob/master/dlapk.png)](https://github.com/vishaltorgal/SendingEmails/raw/master/sendingemails.apk)
-
-<br><br>
-
- 
+<br>
 <img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="300" height="450">
 <br><br>
 <img src="https://github.com/vishaltorgal/SendingEmails/blob/master/2.png " alt="alt text" width="300" height="450">
