@@ -1,6 +1,6 @@
+# Sending Emails in Android#
 
-## Sending Email in Android
-- - -
+
 
 
 [![Alt text](https://github.com/vishaltorgal/SendingEmails/blob/master/dlapk.png)](https://github.com/vishaltorgal/SendingEmails/raw/master/sendingemails.apk)
