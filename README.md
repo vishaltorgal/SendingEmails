@@ -1,4 +1,4 @@
-## Sending Emails in Android
+## Sending Email in Android
 
 
 
