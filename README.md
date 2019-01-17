@@ -1,10 +1,11 @@
 ### Sending Emails in Android
+- - -
 
-[![Alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)](https://github.com/vishaltorgal/SendingEmails/blob/master/sendingemails.apk)
+[![Alt text](https://github.com/vishaltorgal/SendingEmails/blob/master/dlapk.png)](https://github.com/vishaltorgal/SendingEmails/blob/master/sendingemails.apk)
 
 - - -
  
-<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="50" height="50">
+<img src="https://github.com/vishaltorgal/SendingEmails/blob/master/1.png " alt="alt text" width="450" height="550">
 
 ```sh
 
